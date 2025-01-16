@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Crypto**
 
-- 📫 How to reach me **nimashabaniworks@gmail.com**
+- 📫 How to reach me **nimashabaniworks1@gmail.com**
 
 - 📄 Know about my experiences [https://nimoshabani.ir/](https://nimoshabani.ir/)
 
