@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nima Shabani</h1>
-<h3 align="center">"Junior Developer with Proficiency in Python, JavaScript, WordPress , HTML, and CSS"</h3>
+<h3 align="center">"Developer with Proficiency in Python, JavaScript, WordPress , HTML, and CSS"</h3>
 
 <img align="right" alt="NimaShabani" width="400" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimashabaniworks&label=Profile%20views&color=0e75b6&style=flat" alt="nimashabaniworks" /> </p>
