@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nimashabaniworks](https://github.com/nimashabaniworks)
 
-- 💬 Ask me about **FOREX**
+- 💬 Ask me about **AI**
 
 - 📫 How to reach me **nimashabaniworks1@gmail.com**
 
